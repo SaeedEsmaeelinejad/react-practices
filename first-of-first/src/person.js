@@ -6,8 +6,5 @@ const Talking = () => {
     console.log('Im Talking....');
 }
 
-export function Tak(params) {
-    console.log('Tak Tak');
-}
  
 export default Talking;
