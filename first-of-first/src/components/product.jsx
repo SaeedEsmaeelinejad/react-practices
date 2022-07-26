@@ -12,7 +12,6 @@ const Product = () => {
     <button className="m-2 btn btn-sm btn-success">+</button>
     <button className="m-2 btn btn-sm btn-warning">-</button>
     <button className="m-2 btn btn-sm btn-danger">Delete</button>
-
     </> );
 }
  
