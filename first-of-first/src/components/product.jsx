@@ -1,6 +1,7 @@
 
 const Product = () => {
     const counter=112;
+    
     return ( <>
     <span className="m-2 text-info">product name </span>
     <span className="m-2 badge bg-primary">{counter}</span>
