@@ -1,2 +1,2 @@
 # react-practices
-This is a test project
+This is a test project for playing around Reactjs :)
