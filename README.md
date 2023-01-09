@@ -1,4 +1,4 @@
 # react-practices
 This is a test project for playing around Reactjs :)
 
-This follw some learning video from youtube.
+This follows some learning video from youtube.
